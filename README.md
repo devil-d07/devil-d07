@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there, I'm M Deepan Vel👋</h1>
 
 <p align="center">
-<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/e3ca1066-8d1f-4b55-8bba-fcae8db63b76" />
-</p>  
+  <img src="https://github.com/user-attachments/assets/e3ca1066-8d1f-4b55-8bba-fcae8db63b76"
+       width="250" height="180" alt="Image" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDd1cThtYm9ldzFyaXF4a2k1aDd2OGEybm4xc213OTkzODA5c3V0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qGvmdlfJ0FtBSwxqA3/giphy.gif"
+       width="250" height="180" alt="GIF" />
+</p>
 
 <p align="center">
   <em>Final-year BCA student who trains ML models by day and debugs Django at 2 AM 🌙</em>
@@ -80,7 +83,9 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=devil-d07&theme=shadow)
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=devil-d07&theme=shadow" />
+</p>
 
 ---
 
