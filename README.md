@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there, I'm M Deepan Vel👋</h1>
 
 <p align="center">
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e3ca1066-8d1f-4b55-8bba-fcae8db63b76" />
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/e3ca1066-8d1f-4b55-8bba-fcae8db63b76" />
 </p>  
 
 <p align="center">
